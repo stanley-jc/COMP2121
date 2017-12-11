@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\Debug\LAB02B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB02B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB02B.map</FILE>
+  <FILE>LAB02B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <a><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>32</LINE></a>
+  <xg><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>35</LINE></xg>
+  <ng><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>36</LINE></ng>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>79</LINE></main>
+  <main_forloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>102</LINE></main_forloop>
+  <end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>179</LINE></end>
+  <power><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>118</LINE></power>
+  <power_forloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>147</LINE></power_forloop>
+  <epilogue><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab2\LAB02B\LAB02B\main.asm</FILE><LINE>167</LINE></epilogue>
+ </LABELS>
+</ASSEMBLER_INFO>
