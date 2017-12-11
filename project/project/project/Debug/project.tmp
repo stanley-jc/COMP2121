@@ -1,0 +1,140 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\Debug\project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>project.map</FILE>
+  <FILE>project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <name_list><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>87</LINE></name_list>
+  <time_list><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>88</LINE></time_list>
+  <TempCounter><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>89</LINE></TempCounter>
+  <RESET><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>105</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>199</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>212</LINE></EXT_INT1>
+  <Timer0OVF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1063</LINE></Timer0OVF>
+  <lcd_command><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1315</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1345</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1384</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1372</LINE></sleep_1ms>
+  <step0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>183</LINE></step0>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>509</LINE></main>
+  <lcd_data><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1328</LINE></lcd_data>
+  <step1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>229</LINE></step1>
+  <print_ten3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>280</LINE></print_ten3>
+  <back_from_future><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>270</LINE></back_from_future>
+  <step2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>286</LINE></step2>
+  <print_ten1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>322</LINE></print_ten1>
+  <back_from_fir_arg><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>301</LINE></back_from_fir_arg>
+  <print_ten2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>326</LINE></print_ten2>
+  <back_to_one><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>317</LINE></back_to_one>
+  <back_from_sec_arg><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>314</LINE></back_from_sec_arg>
+  <step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>330</LINE></step3>
+  <step4><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>376</LINE></step4>
+  <to_for_ten><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>397</LINE></to_for_ten>
+  <for_ten><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>470</LINE></for_ten>
+  <to_back_ten><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>399</LINE></to_back_ten>
+  <back_ten><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>484</LINE></back_ten>
+  <step5><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>402</LINE></step5>
+  <back_from_ten><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>433</LINE></back_from_ten>
+  <to_step0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>489</LINE></to_step0>
+  <to_step1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>491</LINE></to_step1>
+  <to_step2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>493</LINE></to_step2>
+  <to_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>495</LINE></to_step3>
+  <to_step4><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>497</LINE></to_step4>
+  <clear_display><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>501</LINE></clear_display>
+  <end_clear><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>517</LINE></end_clear>
+  <sleep_100ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1399</LINE></sleep_100ms>
+  <scan_start><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>538</LINE></scan_start>
+  <colloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>542</LINE></colloop>
+  <delay><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>548</LINE></delay>
+  <nextcol><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>573</LINE></nextcol>
+  <rowloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>558</LINE></rowloop>
+  <skipconv><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>568</LINE></skipconv>
+  <convert><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>592</LINE></convert>
+  <letters><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>645</LINE></letters>
+  <symbols><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>636</LINE></symbols>
+  <to_num_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>684</LINE></to_num_key>
+  <to_skip_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>690</LINE></to_skip_key>
+  <to_normal_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>688</LINE></to_normal_key>
+  <to_more_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>686</LINE></to_more_key>
+  <to_star><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>714</LINE></to_star>
+  <to_zero><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>712</LINE></to_zero>
+  <store_next><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>851</LINE></store_next>
+  <end_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>665</LINE></end_key>
+  <convert_end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>829</LINE></convert_end>
+  <name_full><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>680</LINE></name_full>
+  <skip_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>751</LINE></skip_key>
+  <num_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>693</LINE></num_key>
+  <more_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>767</LINE></more_key>
+  <normal_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>758</LINE></normal_key>
+  <set_stat_num><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>735</LINE></set_stat_num>
+  <set_trans_time><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>719</LINE></set_trans_time>
+  <set_stop_time><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>727</LINE></set_stop_time>
+  <zero><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>806</LINE></zero>
+  <star><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>780</LINE></star>
+  <set_lcd_num><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>743</LINE></set_lcd_num>
+  <to_set_stop_time><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>777</LINE></to_set_stop_time>
+  <to_to_skip_key><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>800</LINE></to_to_skip_key>
+  <to_set_trans_time><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>803</LINE></to_set_trans_time>
+  <preserve><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>844</LINE></preserve>
+  <store_step0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>877</LINE></store_step0>
+  <store_step1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>914</LINE></store_step1>
+  <store_step2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>952</LINE></store_step2>
+  <to_store_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>908</LINE></to_store_step3>
+  <end_store_next><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>873</LINE></end_store_next>
+  <to_store_step5><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>910</LINE></to_store_step5>
+  <error_step0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>903</LINE></error_step0>
+  <end_store_step0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>892</LINE></end_store_step0>
+  <store_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>987</LINE></store_step3>
+  <store_step5><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1025</LINE></store_step5>
+  <full_name2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>923</LINE></full_name2>
+  <end_store_step10><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>927</LINE></end_store_step10>
+  <end_store_step11><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>936</LINE></end_store_step11>
+  <error_step2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>979</LINE></error_step2>
+  <end_store_step20><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>964</LINE></end_store_step20>
+  <end_store_step21><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>974</LINE></end_store_step21>
+  <lower_error_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1015</LINE></lower_error_step3>
+  <higher_error_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1020</LINE></higher_error_step3>
+  <end_store_step3><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1007</LINE></end_store_step3>
+  <timer0_start><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1045</LINE></timer0_start>
+  <change_stop_now><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1035</LINE></change_stop_now>
+  <light><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1057</LINE></light>
+  <back_from_light><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1102</LINE></back_from_light>
+  <go_stop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1163</LINE></go_stop>
+  <back_from_stop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1083</LINE></back_from_stop>
+  <NotSecond><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1139</LINE></NotSecond>
+  <return_from_op><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1134</LINE></return_from_op>
+  <wait_five><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1167</LINE></wait_five>
+  <go_stop_time><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1153</LINE></go_stop_time>
+  <print_station><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1201</LINE></print_station>
+  <End_Timer0OVF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1143</LINE></End_Timer0OVF>
+  <stop_rolling><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1304</LINE></stop_rolling>
+  <print_step4><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1197</LINE></print_step4>
+  <go_print><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1210</LINE></go_print>
+  <start_rolling><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1293</LINE></start_rolling>
+  <print_step5><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1282</LINE></print_step5>
+  <name_loop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1255</LINE></name_loop>
+  <reset_stat><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1220</LINE></reset_stat>
+  <set_next_stop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1248</LINE></set_next_stop>
+  <lcd_wait_loop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1352</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1377</LINE></delayloop_1ms>
+  <sleep_20ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\Project\project\project\main.asm</FILE><LINE>1392</LINE></sleep_20ms>
+ </LABELS>
+</ASSEMBLER_INFO>
