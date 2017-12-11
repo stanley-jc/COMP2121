@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\Debug\lab03D.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab03D.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab03D.map</FILE>
+  <FILE>lab03D.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TempCounter><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>30</LINE></TempCounter>
+  <RESET><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>40</LINE></RESET>
+  <Timer0OVF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>51</LINE></Timer0OVF>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>117</LINE></main>
+  <NotSecond><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>72</LINE></NotSecond>
+  <inceminute><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>103</LINE></inceminute>
+  <timeset><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>87</LINE></timeset>
+  <EndIF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>77</LINE></EndIF>
+  <timereset><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>111</LINE></timereset>
+  <end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab3\lab03D\lab03D\main.asm</FILE><LINE>131</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
