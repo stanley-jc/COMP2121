@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\Debug\lab03D.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab03D.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab03D.map</FILE>
+  <FILE>lab03D.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <arraya><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>22</LINE></arraya>
+  <arrayb><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>23</LINE></arrayb>
+  <arrayc><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>24</LINE></arrayc>
+  <temp><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>26</LINE></temp>
+  <initialise1><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>46</LINE></initialise1>
+  <initialise2><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>53</LINE></initialise2>
+  <reload><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>76</LINE></reload>
+  <multi1><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>112</LINE></multi1>
+  <multi2><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>118</LINE></multi2>
+  <end><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>158</LINE></end>
+  <multi3><FILE>C:\Users\LI JINGCHENG\Documents\Atmel Studio\7.0\lab03D\lab03D\main.asm</FILE><LINE>129</LINE></multi3>
+ </LABELS>
+</ASSEMBLER_INFO>

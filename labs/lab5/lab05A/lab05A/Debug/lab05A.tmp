@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\Debug\lab05A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab05A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab05A.map</FILE>
+  <FILE>lab05A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TempCounter><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>32</LINE></TempCounter>
+  <RESET><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>126</LINE></RESET>
+  <Timer0OVF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>171</LINE></Timer0OVF>
+  <EXT_INT2><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>240</LINE></EXT_INT2>
+  <lcd_command><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>281</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>311</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>349</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>337</LINE></sleep_1ms>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>217</LINE></main>
+  <mul10><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>165</LINE></mul10>
+  <NotSecond><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>203</LINE></NotSecond>
+  <print_answer><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>228</LINE></print_answer>
+  <End_Timer0OVF><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>207</LINE></End_Timer0OVF>
+  <end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>274</LINE></end>
+  <lcd_data><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>294</LINE></lcd_data>
+  <no_revolution><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>253</LINE></no_revolution>
+  <lcd_wait_loop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>317</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05A\lab05A\main.asm</FILE><LINE>342</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\Debug\lab04C.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab04C.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab04C.map</FILE>
+  <FILE>lab04C.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <fir_num><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>44</LINE></fir_num>
+  <sec_num><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>45</LINE></sec_num>
+  <result><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>46</LINE></result>
+  <RESET><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>145</LINE></RESET>
+  <lcd_command><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>512</LINE></lcd_command>
+  <lcd_wait><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>542</LINE></lcd_wait>
+  <sleep_5ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>580</LINE></sleep_5ms>
+  <sleep_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>568</LINE></sleep_1ms>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>188</LINE></main>
+  <colloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>191</LINE></colloop>
+  <delay><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>196</LINE></delay>
+  <nextcol><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>217</LINE></nextcol>
+  <rowloop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>205</LINE></rowloop>
+  <skipconv><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>213</LINE></skipconv>
+  <convert><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>236</LINE></convert>
+  <letters><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>269</LINE></letters>
+  <symbols><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>264</LINE></symbols>
+  <second_number><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>261</LINE></second_number>
+  <convert_end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>325</LINE></convert_end>
+  <zero><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>310</LINE></zero>
+  <a_plus><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>281</LINE></a_plus>
+  <b_minus><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>291</LINE></b_minus>
+  <c_equal><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>302</LINE></c_equal>
+  <calculation><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>338</LINE></calculation>
+  <next_line><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>482</LINE></next_line>
+  <lcd_data><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>525</LINE></lcd_data>
+  <preserve><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>330</LINE></preserve>
+  <invalid><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>388</LINE></invalid>
+  <plus><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>349</LINE></plus>
+  <minus><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>369</LINE></minus>
+  <end_calculation><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>450</LINE></end_calculation>
+  <loop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>588</LINE></loop>
+  <print_result><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>459</LINE></print_result>
+  <print_num><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>470</LINE></print_num>
+  <go_next><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>490</LINE></go_next>
+  <go_first><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>495</LINE></go_first>
+  <lcd_wait_loop><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>548</LINE></lcd_wait_loop>
+  <delayloop_1ms><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab4\lab04C\lab04C\main.asm</FILE><LINE>573</LINE></delayloop_1ms>
+ </LABELS>
+</ASSEMBLER_INFO>

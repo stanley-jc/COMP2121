@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\Debug\lab05B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab05B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab05B.map</FILE>
+  <FILE>lab05B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>57</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>99</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>166</LINE></EXT_INT1>
+  <main><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>163</LINE></main>
+  <max_speed><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>144</LINE></max_speed>
+  <skip><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>158</LINE></skip>
+  <ret_maxmin><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>138</LINE></ret_maxmin>
+  <end><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>154</LINE></end>
+  <min_speed><FILE>C:\Users\LI JINGCHENG\Desktop\Uni\UNSW\17S2\COMP2121\labs\lab5\lab05B\lab05B\main.asm</FILE><LINE>203</LINE></min_speed>
+ </LABELS>
+</ASSEMBLER_INFO>
